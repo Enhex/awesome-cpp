@@ -149,6 +149,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
+ * [rang](https://github.com/nsf/termbox) - Header only c++ library for colors in your terminal. [PublicDomain]
 
 ## Compression
 *Compression and Archiving Libraries*
